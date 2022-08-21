@@ -35,8 +35,6 @@ I am a Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I develop Spigot plugins and browse the latest tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-chen-2a6762225/)
-
 ---
 
 ### :triangular_ruler: Projects :
